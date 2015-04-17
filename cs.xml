@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GeneralSearchResponse xmlns="urn:types.partner.api.shopping.com">
+<serverDetail>
+<apiEnv>sandbox</apiEnv>
+<apiVersion>r88.2015.sprint05</apiVersion>
+<buildNumber>26631</buildNumber>
+<buildTimestamp>2015.03.26 18:13:40 PST</buildTimestamp>
+<requestId>v3.695fc58898c0105c160a</requestId>
+<timestamp>2015-04-17T00:22:24.823-04:00</timestamp>
+<responseTime>P0DT0H0M0.102S</responseTime>
+</serverDetail>
+<exceptions exceptionCount="3">
+<exception type="warning">
+<code>1148</code>
+<message>
+WARNING: Missing the "visitorUserAgent" parameter. Discover how you can easily add it to your queries: http://developer.shopping.com/docs/read/Adding_Useragent_to_your_Queries
+</message>
+</exception>
+<exception type="warning">
+<code>1149</code>
+<message>
+WARNING: We detected that you are missing the parameter "visitorIPAddress".
+</message>
+</exception>
+<exception type="warning">
+<code>1112</code>
+<message>
+You are currently using the ECN API sandbox environment! No clicks to merchant URLs from this response will be paid. Please change the host of your API requests to 'api.ebaycommercenetwork.com' when you have finished development and testing
+</message>
+</exception>
+</exceptions>
+<clientTracking height="19" type="logo" width="106">
+<sourceURL>
+http://statTest.dealtime.com/pixel/noscript?PV_EvnTyp=APPV&APPV_APITSP=04%2F17%2F15_12%3A22%3A24_AM&APPV_DSPRQSID=v3.695fc58898c0105c160a&APPV_IMGURL=http://img.shopping.com/sc/glb/ecn_logo_api.png&APPV_LI_LNKINID=7000610&APPV_LI_SBMKYW=&APPV_MTCTYP=1000&APPV_PRTID=2002&APPV_BrnID=14305
+</sourceURL>
+<hrefURL>www.shopping.com</hrefURL>
+<titleText>Shopping.com</titleText>
+<altText>Shopping.com</altText>
+</clientTracking>
+<searchHistory/>
+<categories matchedCategoryCount="1" returnedCategoryCount="1">
+<category id="0">
+<categoryURL>http://www.shopping.com/products?linkin_id=7000610</categoryURL>
+<items matchedItemCount="1501" pageNumber="1" returnedItemCount="5">
+<product id="87647546">
+<name>821027 Magenta Toner Cartridge</name>
+<fullDescription>
+The Ricoh 821027 Yellow Toner Cartridge is a great accessory to combine with your compatible Ricoh laser printer. Yielding 15,000 pages with ease.
+</fullDescription>
+<onSale>false</onSale>
+<onSalePercentOff>0</onSalePercentOff>
+<freeShipping>true</freeShipping>
+<upcs>
+<upc>026649210280</upc>
+<upc>026649210273</upc>
+</upcs>
+<images>
+<image available="true" height="100" width="100">
+<sourceURL>
+http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqRHJFcFHoTkvDejBS!lcQ4Hzw~~_32-100x100-0-0.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=2&c=1&l=7000610&r=1&pr=1&pid=87647546&pdid=MnLEY14j04HUUSBYz9F-Nw%3D%3D
+</sourceURL>
+</image>
+<image available="true" height="200" width="200">
+<sourceURL>
+http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqRHJFcFHoTkvDejBS!lcQ4Hzw~~_32-200x200-0-0.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=2&c=1&l=7000610&r=1&pr=1&pid=87647546&pdid=MnLEY14j04HUUSBYz9F-Nw%3D%3D
+</sourceURL>
+</image>
+<image available="true" height="300" width="300">
+<sourceURL>
+http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqRHJFcFHoTkvDejBS!lcQ4Hzw~~_32-300x300-0-0.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=2&c=1&l=7000610&r=1&pr=1&pid=87647546&pdid=MnLEY14j04HUUSBYz9F-Nw%3D%3D
+</sourceURL>
+</image>
+<image available="false" height="400" width="400">
+<sourceURL>
+http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=2&c=1&l=7000610&r=1&pr=1&pid=87647546&pdid=MnLEY14j04HUUSBYz9F-Nw%3D%3D
+</sourceURL>
+</image>
+<image available="true" height="250" width="329">
+<sourceURL>
+http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqRHJFcFHoTkvDejBS!lcQ4Hzw~~_32-329x250-0-0.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=2&c=1&l=7000610&r=1&pr=1&pid=87647546&pdid=MnLEY14j04HUUSBYz9F-Nw%3D%3D
+</sourceURL>
+</image>
+</images>
+<rating>
+<reviewCount>0</reviewCount>
+</rating>
+<minPrice>55.29</minPrice>
+<maxPrice>217.20</maxPrice>
+<productOffersURL>
+http://www.shopping.com/Ricoh-Print-Cartridge-Magenta/prices~linkin_id-7000610
+</productOffersURL>
+<productSpecsURL>
+http://www.shopping.com/Ricoh-Print-Cartridge-Magenta/info~linkin_id-7000610
+</productSpecsURL>
+<offers matchedOfferCount="15" pageNumber="1" returnedOfferCount="0"/>
+<categoryId>352</categoryId>
+<categoryName>Cartridges and Toners</categoryName>
+<numStores>12</numStores>
+</product>
+<offer featured="false" id="6emawhj3htWBry1qIZ1fVA==" smartBuy="false" used="false">
+<name>HP 623391-001 600gb-15000rpm Sas-6gbps Hard Drives</name>
+<description>
+HP - 600GB 15000RPM 3.5INCH SERIAL ATTACHED SCSI (SAS) HARD DISK DRIVE(623391-001). IN STOCK.
+</description>
+<categoryId>1701</categoryId>
+<manufacturer>HP</manufacturer>
+<imageList>
+<image available="true" height="100" width="100">
+<sourceURL>
+http://di67.shoppingshadow.com/images/di/36/65/6d/6177686a336874574272793171495a31665641-100x100-0-0.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=1&c=1&l=7000610&r=2&pr=2&fks=0
+</sourceURL>
+</image>
+<image available="true" height="200" width="200">
+<sourceURL>
+http://di67.shoppingshadow.com/images/di/36/65/6d/6177686a336874574272793171495a31665641-200x200-0-0.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=1&c=1&l=7000610&r=2&pr=2&fks=0
+</sourceURL>
+</image>
+<image available="true" height="300" width="300">
+<sourceURL>
+http://di67.shoppingshadow.com/images/di/36/65/6d/6177686a336874574272793171495a31665641-300x300-0-0.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=1&c=1&l=7000610&r=2&pr=2&fks=0
+</sourceURL>
+</image>
+<image available="true" height="400" width="400">
+<sourceURL>
+http://di67.shoppingshadow.com/images/di/36/65/6d/6177686a336874574272793171495a31665641-400x400-0-0.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=1&c=1&l=7000610&r=2&pr=2&fks=0
+</sourceURL>
+</image>
+<image available="true" height="280" width="569">
+<sourceURL>
+http://di67.shoppingshadow.com/images/di/36/65/6d/6177686a336874574272793171495a31665641-569x280-0-0.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=1&c=1&l=7000610&r=2&pr=2&fks=0
+</sourceURL>
+</image>
+</imageList>
+<stockStatus>in-stock</stockStatus>
+<storeNotes>Ship Same Day</storeNotes>
+<basePrice currency="USD">250.00</basePrice>
+<tax checkSite="true"/>
+<shippingCost currency="USD">0.00</shippingCost>
+<totalPrice checkSite="true"/>
+<originalPrice currency="USD">250.00</originalPrice>
+<offerURL>
+http://statTest.dealtime.com/DealFrame/DealFrame.cmp?bm=491&BEFID=1701&aon=%5E1&MerchantID=306508&crawler_id=306508&dealId=6emawhj3htWBry1qIZ1fVA%3D%3D&url=http%3A%2F%2Fwww.serversupply.com%2Fproducts%2Fpart_search%2Fpid_find.asp%3Fpid%3D146761%26&linkin_id=7000610&Issdt=150417002224&searchID=v3.695fc58898c0105c160a&DealName=HP+623391-001+600gb-15000rpm+Sas-6gbps+Hard+Drives&dlprc=250.0&AR=2&NG=6&NDP=1&PN=1&ST=7&FPT=DSP&NDS=&NMS=&MRS=&PD=&brnId=14305&IsFtr=0&IsSmart=0&op=&CM=&RR=1&IsLps=0&code=&acode=407&category=&HasLink=&ND=&MN=&GR=&lnkId=&SKU=146761
+</offerURL>
+<store authorizedReseller="false" id="306508" trusted="false">
+<name>Server Supply</name>
+<logo available="true" height="31" width="88">
+<sourceURL>
+http://img.shopping.com/cctool/merch_logos/306508.gif
+</sourceURL>
+</logo>
+<phoneNumber>800-413-6989</phoneNumber>
+<ratingInfo>
+<reviewCount>187</reviewCount>
+<rating>3.93</rating>
+<ratingImage height="18" width="91">
+<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_4.gif</sourceURL>
+</ratingImage>
+<reviewURL>
+http://www.shopping.com/xMR-store_server_supply~MRD-306508~S-1~linkin_id-7000610
+</reviewURL>
+</ratingInfo>
+<countryFlag height="11" width="18">
+<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+<countryCode>US</countryCode>
+</countryFlag>
+</store>
+<sku>146761</sku>
+<quantity>0</quantity>
+<mpn>623391001</mpn>
+</offer>
+<product id="148171197">
+<name>
+HP 300 GB,Internal,10000 RPM,2.5" (DG0300BAMYR) Hard Drive
+</name>
+<fullDescription>
+DG0300BAMYR HP 300GB 3G SAS 10K 2.5 SFF Dual Port Hard Drive for Proliant BL20p G4, BL45p G2, BL460c G5/G6/G7, BL465c G1/G5/G6/G7, BL480c, BL620c G7, BL680c G5/G7, BL685c G1/G5/G6/G7, BL860c, BL870c, DL1000, DL160 G6, DL160se G6, DL165 G7, DL170h G6, DL1
+</fullDescription>
+<onSale>false</onSale>
+<onSalePercentOff>0</onSalePercentOff>
+<freeShipping>true</freeShipping>
+<upcs>
+<upc>102645875859</upc>
+</upcs>
+<images>
+<image available="true" height="100" width="100">
+<sourceURL>
+http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqMOKjkE1uDQBwyMBNhB!Yr,Zw~~_32-100x100-0-0.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=2&c=1&l=7000610&r=3&pr=3&pid=148171197&pdid=XKK6hB3TjOAn6knca77eag%3D%3D
+</sourceURL>
+</image>
+</images>
+<rating>
+<reviewCount>0</reviewCount>
+</rating>
+<minPrice>83.00</minPrice>
+<maxPrice>150.00</maxPrice>
+<productOffersURL>
+http://www.shopping.com/hp_300_gb_internal_10000_rpm_2_5_dg0300bamyr_hard_drive/prices~linkin_id-7000610
+</productOffersURL>
+<productSpecsURL>
+http://www.shopping.com/hp_300_gb_internal_10000_rpm_2_5_dg0300bamyr_hard_drive/info~linkin_id-7000610
+</productSpecsURL>
+<offers matchedOfferCount="3" pageNumber="1" returnedOfferCount="0"/>
+<categoryId>1701</categoryId>
+<categoryName>Hard Drives</categoryName>
+<numStores>2</numStores>
+</product>
+<product id="81565561">
+<name>(113R00719) Cyan Ink Cartridge</name>
+<onSale>false</onSale>
+<onSalePercentOff>0</onSalePercentOff>
+<freeShipping>true</freeShipping>
+<images>
+<image available="true" height="100" width="100">
+<sourceURL>
+http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16ZHJGEFFmyVVOwiBSDMSZlH8g~~_32-100x100-0-0.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=2&c=1&l=7000610&r=4&pr=4&pid=81565561&pdid=CSqFPj3Iciw7cpNN5rCVXw%3D%3D
+</sourceURL>
+</image>
+<image available="true" height="200" width="200">
+<sourceURL>
+http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16ZHJGEFFmyVVOwiBSDMSZlH8g~~_32-200x200-0-0.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=2&c=1&l=7000610&r=4&pr=4&pid=81565561&pdid=CSqFPj3Iciw7cpNN5rCVXw%3D%3D
+</sourceURL>
+</image>
+<image available="true" height="300" width="300">
+<sourceURL>
+http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16ZHJGEFFmyVVOwiBSDMSZlH8g~~_32-300x300-0-0.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=2&c=1&l=7000610&r=4&pr=4&pid=81565561&pdid=CSqFPj3Iciw7cpNN5rCVXw%3D%3D
+</sourceURL>
+</image>
+<image available="false" height="400" width="400">
+<sourceURL>
+http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=2&c=1&l=7000610&r=4&pr=4&pid=81565561&pdid=CSqFPj3Iciw7cpNN5rCVXw%3D%3D
+</sourceURL>
+</image>
+<image available="true" height="299" width="300">
+<sourceURL>
+http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16ZHJGEFFmyVVOwiBSDMSZlH8g~~_32-300x299-0-0.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=2&c=1&l=7000610&r=4&pr=4&pid=81565561&pdid=CSqFPj3Iciw7cpNN5rCVXw%3D%3D
+</sourceURL>
+</image>
+</images>
+<rating>
+<reviewCount>0</reviewCount>
+</rating>
+<minPrice>49.99</minPrice>
+<maxPrice>474.89</maxPrice>
+<productOffersURL>
+http://www.shopping.com/Xerox-Xerox-Toner-cartridge-1-x-cyan-2000-pages/prices~linkin_id-7000610
+</productOffersURL>
+<productSpecsURL>
+http://www.shopping.com/Xerox-Xerox-Toner-cartridge-1-x-cyan-2000-pages/info~linkin_id-7000610
+</productSpecsURL>
+<offers matchedOfferCount="24" pageNumber="1" returnedOfferCount="0"/>
+<categoryId>352</categoryId>
+<categoryName>Cartridges and Toners</categoryName>
+<numStores>19</numStores>
+</product>
+<product id="148284775">
+<name>AR-C200P (ARC20TYU) Yellow Toner Cartridge</name>
+<fullDescription>
+Sharp SHRARC20TYU Sharp OEM cartridges make ordinary documents into extraordinary with sharp lines and smooth edges. Reliable and dependable so can count on it when need it most. Installs quickly and easily, saving both time and money. Features: -Toner cartridge. -Color: Yellow. -Yield: 10,000. -OEM Product. Dimensions: -5 H x 6 W x 12 D, 1.90 lbs.
+</fullDescription>
+<onSale>false</onSale>
+<onSalePercentOff>0</onSalePercentOff>
+<freeShipping>true</freeShipping>
+<upcs>
+<upc>708562397698</upc>
+</upcs>
+<images>
+<image available="true" height="100" width="100">
+<sourceURL>
+http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16VHJG8E9nyfnfYiBRvu0hV(R!~~_32-100x100-0-0.jpg?rqid=v3.695fc58898c0105c160a&rqt=SRS&a=2&c=1&l=7000610&r=5&pr=5&pid=148284775&pdid=tGDWxLrNe2Ddajt60TDGRA%3D%3D
+</sourceURL>
+</image>
+</images>
+<rating>
+<reviewCount>0</reviewCount>
+</rating>
+<minPrice>39.99</minPrice>
+<maxPrice>520.89</maxPrice>
+<productOffersURL>
+http://www.shopping.com/ar_c200p_arc20tyu_yellow_toner_cartridge/prices~linkin_id-7000610
+</productOffersURL>
+<productSpecsURL>
+http://www.shopping.com/ar_c200p_arc20tyu_yellow_toner_cartridge/info~linkin_id-7000610
+</productSpecsURL>
+<offers matchedOfferCount="10" pageNumber="1" returnedOfferCount="0"/>
+<categoryId>352</categoryId>
+<categoryName>Cartridges and Toners</categoryName>
+<numStores>10</numStores>
+</product>
+</items>
+<attributes matchedAttributeCount="5" returnedAttributeCount="5">
+<attribute id="Dynamic_Price_Range">
+<name>Price range</name>
+<attributeURL>http://www.shopping.com/products?linkin_id=7000610</attributeURL>
+<attributeValues matchedValueCount="2" returnedValueCount="2">
+<attributeValue id="price_range_0_49950" matchingItemsCount="1">
+<name>$0 - $49950</name>
+<attributeValueURL>
+http://www.shopping.com/products?minPrice=0&maxPrice=49950&linkin_id=7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="price_range_49950_99900" matchingItemsCount="1">
+<name>$49950 - $99900</name>
+<attributeValueURL>
+http://www.shopping.com/products?minPrice=49950&maxPrice=99900&linkin_id=7000610
+</attributeValueURL>
+</attributeValue>
+</attributeValues>
+</attribute>
+<attribute id="category">
+<name>Category</name>
+<attributeURL>
+http://www.shopping.com/products~all-Category~MS-1?linkin_id=7000610
+</attributeURL>
+<attributeValues matchedValueCount="5" returnedValueCount="5">
+<attributeValue id="API3_CATEGORY_352" matchingItemsCount="236">
+<name>Cartridges and Toners</name>
+<attributeValueURL>
+http://www.shopping.com/cartridges-and-toners/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="API3_CATEGORY_1627" matchingItemsCount="323">
+<name>Cables and Connectors</name>
+<attributeValueURL>
+http://www.shopping.com/cables-and-connectors/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="API3_CATEGORY_1633" matchingItemsCount="289">
+<name>Laptop and Tablet Accessories</name>
+<attributeValueURL>
+http://www.shopping.com/laptop-and-tablet-accessories/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="API3_CATEGORY_96394" matchingItemsCount="75">
+<name>Software</name>
+<attributeValueURL>
+http://www.shopping.com/software/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="API3_CATEGORY_63686" matchingItemsCount="68">
+<name>Blank Media</name>
+<attributeValueURL>
+http://www.shopping.com/blank-media/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+</attributeValues>
+</attribute>
+<attribute id="store">
+<name>Store</name>
+<attributeURL>
+http://www.shopping.com/products~all-store~MS-1?linkin_id=7000610
+</attributeURL>
+<attributeValues matchedValueCount="56" returnedValueCount="5">
+<attributeValue id="store_ebay_4134392" matchingItemsCount="631">
+<name>eBay</name>
+<attributeValueURL>
+http://www.shopping.com/store-ebay-4134392/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="store_ebay_4210135" matchingItemsCount="356">
+<name>eBay</name>
+<attributeValueURL>
+http://www.shopping.com/store-ebay-4210135/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="store_overstock_com_9689" matchingItemsCount="71">
+<name>Overstock.com</name>
+<attributeValueURL>
+http://www.shopping.com/store-overstock-com-9689/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="store_wayfair_9689" matchingItemsCount="66">
+<name>Wayfair</name>
+<attributeValueURL>
+http://www.shopping.com/store-wayfair-9689/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="store_macmall" matchingItemsCount="51">
+<name>MacMall</name>
+<attributeValueURL>
+http://www.shopping.com/store-macmall/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+</attributeValues>
+</attribute>
+<attribute id="9688_brand">
+<name>Brand</name>
+<attributeURL>
+http://www.shopping.com/products~all-9688-brand~MS-1?linkin_id=7000610
+</attributeURL>
+<attributeValues matchedValueCount="407" returnedValueCount="5">
+<attributeValue id="hp" matchingItemsCount="45">
+<name>HP</name>
+<attributeValueURL>
+http://www.shopping.com/hp/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="brand_microsoft" matchingItemsCount="26">
+<name>Microsoft</name>
+<attributeValueURL>
+http://www.shopping.com/brand-microsoft/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="dell" matchingItemsCount="17">
+<name>Dell</name>
+<attributeValueURL>
+http://www.shopping.com/dell/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="asustek" matchingItemsCount="20">
+<name>ASUS</name>
+<attributeValueURL>
+http://www.shopping.com/asustek/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="belkin" matchingItemsCount="18">
+<name>Belkin</name>
+<attributeValueURL>
+http://www.shopping.com/belkin/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+</attributeValues>
+</attribute>
+<attribute id="cable_connector_type">
+<name>Cable/Connector Type</name>
+<attributeURL>
+http://www.shopping.com/products~all-cable-connector-type~MS-1?linkin_id=7000610
+</attributeURL>
+<attributeValues matchedValueCount="89" returnedValueCount="5">
+<attributeValue id="hdmi_cable" matchingItemsCount="30">
+<name>HDMI Cable</name>
+<attributeValueURL>
+http://www.shopping.com/hdmi-cable/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="rca_cable" matchingItemsCount="14">
+<name>RCA Cable</name>
+<attributeValueURL>
+http://www.shopping.com/rca-cable/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="23995670_cable" matchingItemsCount="22">
+<name>Cable</name>
+<attributeValueURL>
+http://www.shopping.com/23995670-cable/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="23995670_power_cable" matchingItemsCount="13">
+<name>Power Cable</name>
+<attributeValueURL>
+http://www.shopping.com/23995670-power-cable/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+<attributeValue id="audio_cable" matchingItemsCount="10">
+<name>Audio Cable</name>
+<attributeValueURL>
+http://www.shopping.com/audio-cable/products~linkin_id-7000610
+</attributeValueURL>
+</attributeValue>
+</attributeValues>
+</attribute>
+</attributes>
+<contentType>hybrid</contentType>
+</category>
+<intActualCategoryCount>2</intActualCategoryCount>
+</categories>
+<relatedTerms>
+<term>external hard drive</term>
+<term>toner</term>
+<term>hard drive</term>
+<term>hp 74</term>
+<term>sata</term>
+<term>hp 57</term>
+<term>ide hard drive</term>
+<term>hp 78</term>
+<term>hp 02</term>
+<term>laptop hard drive</term>
+<term>lexmark ink cartridge</term>
+<term>portable hard drive</term>
+<term>ink cartridges</term>
+<term>hp 21</term>
+<term>hp 97</term>
+<term>20gb</term>
+<term>hp 74 75</term>
+<term>sata hard drive</term>
+<term>xerox</term>
+<term>np-20</term>
+</relatedTerms>
+</GeneralSearchResponse>
